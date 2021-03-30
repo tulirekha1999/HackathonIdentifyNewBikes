@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression and Smoke Suite">
+     
+  <test name="Login Page Test">
+	 <classes>
+	   <class name="com.zigwheels.testlogin.LoginTest"/>
+	 </classes>
+   </test>
+   
+ <test name="Upcoming Bikes Test">
+	 <classes>
+	   <class name="com.zigwheels.testupcomingbikes.NewBikesTest"/>
+	   <class name="com.zigwheels.testupcomingbikes.UpcomingBikesTest"/>
+	 </classes>
+   </test>
+   
+  <test name="Used Cars Test">
+	 <classes>
+	   <class name="com.zigwheels.UsedCars.UsedCarsTest"/>
+	 </classes>
+   </test>
+</suite>

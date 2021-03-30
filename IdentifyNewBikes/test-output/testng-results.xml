@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="18" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-23T20:11:21 IST" name="Regression and Smoke Suite" finished-at="2021-03-23T20:19:38 IST" duration-ms="497043">
+    <groups>
+    </groups>
+    <test started-at="2021-03-23T20:11:21 IST" name="Login Page Test" finished-at="2021-03-23T20:15:01 IST" duration-ms="220688">
+      <class name="com.zigwheels.testlogin.LoginTest">
+        <test-method signature="testOne()[pri:1, instance:com.zigwheels.testlogin.LoginTest@4c178a76]" started-at="2021-03-23T20:11:21 IST" name="testOne" finished-at="2021-03-23T20:11:45 IST" duration-ms="24531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method signature="testTwo()[pri:2, instance:com.zigwheels.testlogin.LoginTest@4c178a76]" started-at="2021-03-23T20:11:45 IST" name="testTwo" finished-at="2021-03-23T20:12:02 IST" duration-ms="16973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method signature="testThree()[pri:3, instance:com.zigwheels.testlogin.LoginTest@4c178a76]" started-at="2021-03-23T20:12:02 IST" name="testThree" finished-at="2021-03-23T20:13:02 IST" duration-ms="59202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method signature="testFour()[pri:4, instance:com.zigwheels.testlogin.LoginTest@4c178a76]" started-at="2021-03-23T20:13:02 IST" name="testFour" finished-at="2021-03-23T20:13:43 IST" duration-ms="41058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method signature="testFive()[pri:5, instance:com.zigwheels.testlogin.LoginTest@4c178a76]" started-at="2021-03-23T20:13:43 IST" name="testFive" finished-at="2021-03-23T20:14:13 IST" duration-ms="30195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFive -->
+        <test-method signature="testSix()[pri:6, instance:com.zigwheels.testlogin.LoginTest@4c178a76]" started-at="2021-03-23T20:14:13 IST" name="testSix" finished-at="2021-03-23T20:14:37 IST" duration-ms="24650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSix -->
+        <test-method signature="testSeven()[pri:7, instance:com.zigwheels.testlogin.LoginTest@4c178a76]" started-at="2021-03-23T20:14:37 IST" name="testSeven" finished-at="2021-03-23T20:15:01 IST" duration-ms="23958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeven -->
+      </class> <!-- com.zigwheels.testlogin.LoginTest -->
+    </test> <!-- Login Page Test -->
+    <test started-at="2021-03-23T20:15:03 IST" name="Upcoming Bikes Test" finished-at="2021-03-23T20:18:41 IST" duration-ms="218040">
+      <class name="com.zigwheels.testupcomingbikes.UpcomingBikesTest">
+        <test-method signature="Test1()[pri:1, instance:com.zigwheels.testupcomingbikes.UpcomingBikesTest@1f59a598]" started-at="2021-03-23T20:16:18 IST" name="Test1" finished-at="2021-03-23T20:17:08 IST" duration-ms="49687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:2, instance:com.zigwheels.testupcomingbikes.UpcomingBikesTest@1f59a598]" started-at="2021-03-23T20:17:08 IST" name="Test2" finished-at="2021-03-23T20:17:39 IST" duration-ms="31754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="Test3()[pri:3, instance:com.zigwheels.testupcomingbikes.UpcomingBikesTest@1f59a598]" started-at="2021-03-23T20:17:39 IST" name="Test3" finished-at="2021-03-23T20:18:07 IST" duration-ms="27441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method signature="Test4()[pri:4, instance:com.zigwheels.testupcomingbikes.UpcomingBikesTest@1f59a598]" started-at="2021-03-23T20:18:07 IST" name="Test4" finished-at="2021-03-23T20:18:41 IST" duration-ms="33901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- com.zigwheels.testupcomingbikes.UpcomingBikesTest -->
+      <class name="com.zigwheels.testupcomingbikes.NewBikesTest">
+        <test-method signature="Test1()[pri:1, instance:com.zigwheels.testupcomingbikes.NewBikesTest@7ee8290b]" started-at="2021-03-23T20:15:03 IST" name="Test1" finished-at="2021-03-23T20:15:26 IST" duration-ms="22831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:2, instance:com.zigwheels.testupcomingbikes.NewBikesTest@7ee8290b]" started-at="2021-03-23T20:15:26 IST" name="Test2" finished-at="2021-03-23T20:15:53 IST" duration-ms="27626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="Test3()[pri:3, instance:com.zigwheels.testupcomingbikes.NewBikesTest@7ee8290b]" started-at="2021-03-23T20:15:53 IST" name="Test3" finished-at="2021-03-23T20:16:18 IST" duration-ms="24770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- com.zigwheels.testupcomingbikes.NewBikesTest -->
+    </test> <!-- Upcoming Bikes Test -->
+    <test started-at="2021-03-23T20:18:41 IST" name="Used Cars Test" finished-at="2021-03-23T20:19:38 IST" duration-ms="56974">
+      <class name="com.zigwheels.UsedCars.UsedCarsTest">
+        <test-method signature="extractUsedCarsModel1()[pri:1, instance:com.zigwheels.UsedCars.UsedCarsTest@c86b9e3]" started-at="2021-03-23T20:18:41 IST" name="extractUsedCarsModel1" finished-at="2021-03-23T20:18:55 IST" duration-ms="13758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractUsedCarsModel1 -->
+        <test-method signature="extractUsedCarsModel2()[pri:2, instance:com.zigwheels.UsedCars.UsedCarsTest@c86b9e3]" started-at="2021-03-23T20:18:55 IST" name="extractUsedCarsModel2" finished-at="2021-03-23T20:19:10 IST" duration-ms="15166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractUsedCarsModel2 -->
+        <test-method signature="extractUsedCarsModel3()[pri:3, instance:com.zigwheels.UsedCars.UsedCarsTest@c86b9e3]" started-at="2021-03-23T20:19:10 IST" name="extractUsedCarsModel3" finished-at="2021-03-23T20:19:38 IST" duration-ms="28040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractUsedCarsModel3 -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.zigwheels.UsedCars.UsedCarsTest@c86b9e3]" started-at="2021-03-23T20:19:38 IST" name="endReport" finished-at="2021-03-23T20:19:39 IST" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.zigwheels.UsedCars.UsedCarsTest -->
+    </test> <!-- Used Cars Test -->
+  </suite> <!-- Regression and Smoke Suite -->
+</testng-results>
